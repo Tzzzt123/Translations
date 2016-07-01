@@ -1,7 +1,7 @@
 {
   "localizedName": "Français (FR)",
   "pluginVersion": "2.1.3",
-  "authors": "lenis",
+  "authors": "lenis, Tzzzt",
   "generalNotAuthenticated": "Tu n'es pas encore inscrit ou tu t'es déjà identifié!",
   "generalNotLoggedIn": "Tu n'es pas encore identifié!",
   "generalPasswordLength": "Let mots-de-passe doivent être entre %min% et %max% caractères!",
