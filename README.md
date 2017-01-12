@@ -22,6 +22,8 @@ French (France) fr_fr.json (Contributed by Tzzzt123)
 
 German (Germany) de_de.json (Contributed by Tzzzt123)
 
+Italian (Italy) it_it.json (Contributed by lucamonte)
+
 Pirate Speak (Pirate) en_pi.json (Contributed by Plazmaz)
 
 Polish (Poland) pl_pl.json (Contributed by Martynza and krfcm)
@@ -32,7 +34,7 @@ Spanish (Mexico) es_mx.json (Contributed by Plazmaz)
 
 Russian (Russia) ru_ru.json (Contributed by SumPilot)
 
-14 translations at the moment.
+15 translations at the moment.
 
 Thanks to everyone who's contributed translations!
 
